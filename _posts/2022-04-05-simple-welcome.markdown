@@ -8,6 +8,6 @@ This is a simple post to illustrate a bit of Jekyll.
 
 The next two lines should be in different fonts
 * This bullet point is in the default minima font. The next point should be in Google Gentium Basic webfont
-* Nɔ́pʋ Gugɛl Gyɛntiam Besɩk wɛbfɔnt wanlɩn ɩ́nɩ.
+* <span class="nkonya">Nɔ́pʋ Gugɛl Gyɛntiam Besɩk wɛbfɔnt wanlɩn ɩ́nɩ.</span>
 
-That's all for now.
+That's all for this post.
